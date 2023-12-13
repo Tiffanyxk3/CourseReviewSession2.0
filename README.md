@@ -1,3 +1,22 @@
+<!-- 
+Peer Review by Zhiqian Zhang:
+
+Very impressive work! 
+1. The color palette and typography suits your web app style. The color palette is more salient and easy on eyes than the previous one.
+2. I like the way you put before and after of the design and function improvement in readme.
+
+Suggestions:
+1. It'll be better to add your presentation slides link in readme.
+2. You may want to add a intro screen showing your web functions or overall description, since as a first time user I don't know what this web is about exactly without seeing readme.
+3. You may want to add a information/help button with instructions so that the user know how to navigate functions.
+4. I noticed that users can create same session even if the session already exist. You may consider merge it or prevent user to do so.
+5. You may want to make your course review logo clickable and direct the user to dashboard or intro screen.
+-->
+
+
+
+
+
 # Course Review Session
 
 > Author: Naiyi Zhang & Yunke Nie
