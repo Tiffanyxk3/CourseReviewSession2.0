@@ -47,7 +47,11 @@
   size: 10px;
 }
 
-.regist-input label,
+
+.regist-input label, //seemes like you are missing some code?
 .regist-tag label {
   font-size: 18px;
 }
+
+
+// the typography needs to improve on this page.
